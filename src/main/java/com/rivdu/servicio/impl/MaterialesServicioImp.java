@@ -6,9 +6,7 @@
 package com.rivdu.servicio.impl;
 
 import com.rivdu.dao.GenericoDao;
-import com.rivdu.entidades.Estadocliente;
 import com.rivdu.entidades.Materiales;
-import com.rivdu.entidades.Persona;
 import com.rivdu.excepcion.GeneralException;
 import com.rivdu.servicio.MaterialesServicio;
 import com.rivdu.util.BusquedaPaginada;
